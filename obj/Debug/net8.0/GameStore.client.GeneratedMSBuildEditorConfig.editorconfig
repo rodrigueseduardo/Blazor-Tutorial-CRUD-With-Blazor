@@ -1,0 +1,47 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = GameStore.client
+build_property.RootNamespace = GameStore.client
+build_property.ProjectDir = /Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client/Pages/DeleteGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsZXRlR2FtZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client/Pages/EditGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdEdhbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/eduardorodrigues/Documents/Projetos/BlazorCourse/GameStore.client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-upzrhm4lpl
